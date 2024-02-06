@@ -2,4 +2,8 @@
     #video-container {
         padding-bottom: 75%; /* Adjust the aspect ratio for smaller screens */
     }
+
+    body {
+        zoom: 0.7;
+    }
 }
