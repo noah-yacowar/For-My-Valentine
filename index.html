@@ -33,7 +33,15 @@
         </div>
     </div>
 
-    
+    <script>
+        if (window.innerWidth > 767) {
+            // Desktop
+            document.getElementById('no-button').addEventListener('mouseover', handleHover);
+        } else {
+            // Mobile
+            document.getElementById('no-button').removeAttribute('onmouseover');
+        }
+    </script>
 
     <script src="script.js"></script>
 </body>
