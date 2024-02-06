@@ -1,8 +1,4 @@
 @media (max-width: 767px) {
-    #no-button {
-        cursor: pointer;
-    }
-
     #video-container {
         padding-bottom: 75%; /* Adjust the aspect ratio for smaller screens */
     }

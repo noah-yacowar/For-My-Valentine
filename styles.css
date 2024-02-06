@@ -6,7 +6,6 @@ body {
     overflow: hidden; /* Prevent scrollbar due to shapes */
     background: #ffd1dc; /* Rose gold background color */
     color: #ffffff; /* White text color */
-    transform: scale(1.); /* Zoom the entire page by 130% */
     transform-origin: top left; /* Set the origin of the scaling to the top-left corner */
 }
 
